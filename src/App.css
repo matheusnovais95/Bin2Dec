@@ -6,6 +6,11 @@ div h1{
   color: #000;
   
 }
+
+.container div{
+  margin: auto;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
